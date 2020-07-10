@@ -5,6 +5,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
+import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -14,6 +15,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
@@ -39,11 +42,14 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
         private TextView nama, alamat;
         private ImageView actEdit, actDel;
+        private ImageView foto;
 
         ViewHolder(View itemView) {
             super(itemView);
             nama = itemView.findViewById(R.id.nama);
             alamat = itemView.findViewById(R.id.alamat);
+            foto = itemView.findViewById(R.id.foto);
+
             actEdit = itemView.findViewById(R.id.actEdit);
             actDel = itemView.findViewById(R.id.actDel);
         }
@@ -60,9 +66,18 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
     public void onBindViewHolder(ViewHolder holder, final int position) {
         final String nama = siswaArrayList.get(position).nama;
         final String alamat = siswaArrayList.get(position).alamat;
+        final String foto = siswaArrayList.get(position).foto;
 
         holder.nama.setText("Nama: "+nama);
         holder.alamat.setText("Alamat: "+alamat);
+
+
+        if(!TextUtils.isEmpty(foto)){
+            Picasso.with(context)
+                    .load( foto)
+                    .transform(new CircleTransform())
+                    .into(holder.foto);
+        }
 
         holder.actEdit.setOnClickListener(new View.OnClickListener() {
             @Override
