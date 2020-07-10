@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_3" />
+        <device id="pixel_2" />
+        <device id="pixel_xl" />
+        <device id="pixel_3_xl" />
+        <device id="pixel_2_xl" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d38397b1-836d-4d5d-b78c-bd6dc63329da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Said/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Said/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/ReportActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/ReportActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/fun/DataHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/fun/DataHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/fun/FileUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/fun/FileUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_home_boss.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home_boss.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_report.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/.transforms/8178e2f27fd7b4a9c327fdf8637b773d.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/.transforms/99106e88c2160709282f9570c68e67a0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/.transforms/99106e88c2160709282f9570c68e67a0/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/generated/source/buildConfig/release/cn/pedant/SweetAlert/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compile_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compile_only_not_namespaced_r_class_jar/release/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compile_symbol_list/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/anim_error_frame_in.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/anim_error_x_in.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/anim_modal_in.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/anim_modal_out.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/anim_success_bow_roate.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/anim_success_mask_layout.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/drawable_blue_button_background.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/drawable_dialog_background.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/drawable_error_center_x.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/drawable_error_circle.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/drawable_gray_button_background.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/drawable_red_button_background.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/drawable_success_bow.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/drawable_success_circle.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/drawable_warning_circle.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/drawable_warning_sigh.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/layout_alert_dialog.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageReleaseAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/release-mergeNativeLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/release/classes/cn/pedant/SweetAlert/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/release/classes/cn/pedant/SweetAlert/OptAnimationLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/release/classes/cn/pedant/SweetAlert/ProgressHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/release/classes/cn/pedant/SweetAlert/Rotate3dAnimation$Description.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/release/classes/cn/pedant/SweetAlert/Rotate3dAnimation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/release/classes/cn/pedant/SweetAlert/SuccessTickView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/release/classes/cn/pedant/SweetAlert/SuccessTickView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/release/classes/cn/pedant/SweetAlert/SweetAlertDialog$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/release/classes/cn/pedant/SweetAlert/SweetAlertDialog$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/release/classes/cn/pedant/SweetAlert/SweetAlertDialog$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/release/classes/cn/pedant/SweetAlert/SweetAlertDialog$OnSweetClickListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/release/classes/cn/pedant/SweetAlert/SweetAlertDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/library_manifest/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/local_only_symbol_list/release/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/merged_manifests/release/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/navigation_json/release/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/anim/error_frame_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/anim/error_x_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/anim/modal_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/anim/modal_out.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/anim/success_bow_roate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/anim/success_mask_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/drawable/blue_button_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/drawable/dialog_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/drawable/error_center_x.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/drawable/error_circle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/drawable/gray_button_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/drawable/red_button_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/drawable/success_bow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/drawable/success_circle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/drawable/warning_circle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/drawable/warning_sigh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/layout/alert_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/release/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/runtime_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Sistem Pelaporan" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Sistem Pelaporan" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Sistem Pelaporan" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dzcm2yPzWjW1w1qi38zcVw478z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideE

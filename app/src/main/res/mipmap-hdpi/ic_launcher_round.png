@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_3" />
+        <device id="pixel_2" />
+        <device id="pixel_xl" />
+        <device id="pixel_3_xl" />
+        <device id="pixel_2_xl" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d38397b1-836d-4d5d-b78c-bd6dc63329da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Said/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Said/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/ReportActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/ReportActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/fun/DataHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/fun/DataHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/fun/FileUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/mycompany/sistempelaporan/fun/FileUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_home_boss.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home_boss.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_report.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/.transforms/8178e2f27fd7b4a9c327fdf8637b773d.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/.transforms/99106e88c2160709282f9570c68e67a0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/.transforms/99106e88c2160709282f9570c68e67a0/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/generated/source/buildConfig/release/cn/pedant/SweetAlert/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compile_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compile_only_not_namespaced_r_class_jar/release/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compile_symbol_list/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/anim_error_frame_in.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/anim_error_x_in.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/release/out/anim_modal_in.xml.flat"
